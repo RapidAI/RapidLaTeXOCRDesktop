@@ -1,0 +1,6 @@
+PyQt6
+PyQt6-WebEngine
+pyside6
+pynput
+screeninfo
+rapid_latex_ocr
